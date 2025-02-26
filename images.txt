@@ -1,2 +1,1 @@
-starrocks/dev-env-ubuntu:latest
-starrocks/allin1-ubuntu
+starrocks/allin1-ubuntu:3.3-latest
